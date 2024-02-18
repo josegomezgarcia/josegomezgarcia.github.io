@@ -2,25 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer and Researcher at <a href='https://ensai.fr'>ENSAI</a> - <a href='https://crest.science'>CREST</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jose2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size:12px;"> ENSAI, Campus de Ker Lann</p>
+    <p style="font-size:12px;"> 51 rue Blaise Pascal, BP 37203</p>
+    <p style="font-size:12px;"> 35172 Bruz Cedex. Bureau 258.</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page 
+
+#Ma recherche s'est focalisée sur la détection de tendances et de clusters dans les valeurs extrêmes de processus spatio-temporels, avec une application spécifique au changement climatique. Mes expériences d'enseignement incluent aussi des postes d'ATER à l'Institut Galilée, Université Sorbonne Paris Nord et à l'EPISEN ainsi qu'
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Lecturer and Researcher at the <a href='https://ensai.fr'>ENSAI</a> and <a href='https://crest.science'>CREST</a>, both members of <a href='https://www.groupe-genes.fr'>GENES</a>. My teaching responsibilities in the statistics department primarily focus on statistical learning, time series, and extreme value theory. These courses include unsupervised classification methods (K-means and HCA), dimension reduction method through PCA, supervised classification methods (KNN, Bayes, LDA, QDA, CART, Random Forest), as well as forecasting methods in time series and the analysis of their extreme values.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining ENSAI, I held a similar position at <a href='https://mia-ps.inrae.fr'>Université Paris-Saclay/AgroParisTech/INRAE</a>, where I primarily taught statistical modeling of environmental and biological data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also completed a postdoctoral fellowship in machine learning at the Nicolas Oresme Mathematics Laboratory of UNICAEN, working on mixture models and models based on deep neural networks. During this period, I co-organized the <a href='https://www.lmno.cnrs.fr/seminaires/statprobasdonnees'>Statistics and Data Science Working Group</a> and participated in various teaching activities at UNICAEN and ENSAI.
+
+My academic background includes a Ph.D. in Statistics-Mathematics from <a href='https://www.cyu.fr'>CY Cergy Paris Université</a>, under the supervision of <a href='https://doukhan.perso.cyu.fr'>Paul Doukhan</a>, and a research master's in stochastic geometry from the Universidad Central de Venezuela, supervised by <a href='https://scholar.google.com/citations?user=9pjGAFoAAAAJ&hl=fr'>José R. (Chichi) León.
+
+
+
+### Research Interests
+* Item 1
+* Item 2 bla bla 
+  * Sous-item 2.1
+  * Sous-item 2.2
+* Item 3
+
+
