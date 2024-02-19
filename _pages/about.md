@@ -27,15 +27,18 @@ Before joining ENSAI, I held a similar position at <a href='https://mia-ps.inrae
 
 I also completed a postdoctoral fellowship in machine learning at the Nicolas Oresme Mathematics Laboratory of UNICAEN, working on mixture models and models based on deep neural networks. During this period, I co-organized the <a href='https://www.lmno.cnrs.fr/seminaires/statprobasdonnees'>Statistics and Data Science Working Group</a> and participated in various teaching activities at UNICAEN and ENSAI.
 
-My academic background includes a Ph.D. in Statistics-Mathematics from <a href='https://www.cyu.fr'>CY Cergy Paris Université</a>, under the supervision of <a href='https://doukhan.perso.cyu.fr'>Paul Doukhan</a>, and a research master's in stochastic geometry from the Universidad Central de Venezuela, supervised by <a href='https://scholar.google.com/citations?user=9pjGAFoAAAAJ&hl=fr'>José R. (Chichi) León.
+My academic background includes a Ph.D. in Statistics-Mathematics from <a href='https://www.cyu.fr'>CY Cergy Paris Université</a>, under the supervision of <a href='https://doukhan.perso.cyu.fr'>Paul Doukhan</a>, and a research master's in stochastic geometry from the Universidad Central de Venezuela, supervised by <a href='https://scholar.google.com/citations?user=9pjGAFoAAAAJ&hl=fr'>José R. (Chichi) León</a>.
 
 
 
 ### Research Interests
-* Item 1
-* Item 2 bla bla 
-  * Sous-item 2.1
-  * Sous-item 2.2
-* Item 3
+* Extreme value theory
+  * Multivariate, spatial and spatiotemporal extremes
+  * Applications to climatic and environmental risks
+* Stochastic processes
+  * Weak dependence
+  * Limit theorems
+* Statistical learning
+  * Artificial neural networks 
 
 
