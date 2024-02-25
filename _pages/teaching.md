@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: (Ma description) Materials for courses you taught. 
+description: Materials from some of my courses that I have taught.
 nav: true
-display_categories: [ENSAI, AgroParisTech]
+display_categories: [ENSAI]
 horizontal: true
 nav_order: 4
 ---
