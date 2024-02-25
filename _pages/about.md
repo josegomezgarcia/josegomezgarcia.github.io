@@ -18,13 +18,13 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page 
+social: false # includes social icons at the bottom of the page 
 ---
 
 I am currently a Lecturer and Researcher at <a href='https://ensai.fr'>ENSAI</a> and the <a href='https://crest.science'>CREST</a> lab. 
 My teaching responsibilities in the statistics department primarily focus on statistical learning, time series and extreme value theory.
 
-Before joining ENSAI, I held a similar position at <a href='https://mia-ps.inrae.fr'>AgroParisTech/INRAE/ Université Paris-Saclay</a>, where I primarily taught and researched statistical modeling of environmental and biological data.
+Before joining ENSAI, I held a similar position at <a href='https://mia-ps.inrae.fr'>AgroParisTech/INRAE/Université Paris-Saclay</a>, where I primarily taught and researched statistical modeling of environmental and biological data.
 
 I also completed a postdoctoral fellowship in machine learning at <a href='https://www.lmno.cnrs.fr'>LMNO/ UNICAEN</a>, working on mixture models and models based on deep neural networks. During this period, I co-organized the <a href='https://www.lmno.cnrs.fr/seminaires/statprobasdonnees'>Statistics and Data Science Working Group</a> and participated in various teaching activities at UNICAEN and ENSAI.
 
