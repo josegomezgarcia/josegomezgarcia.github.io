@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-### Published/accepted articles
+### published/accepted articles
 
 
 <div class="publications">
