@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Time Series 1
-description: First Time Series course for 2rd year students
+description: A first Time Series course for 2rd year students
 img: assets/img/no2.png
 importance: 1
 category: ENSAI
