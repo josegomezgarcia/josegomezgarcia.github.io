@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Extreme Value Theory
-description: Practical Sessions
+description: Practical Sessions for 3rd year students
 img: assets/img/secheresse.jpg
 importance: 2
 category: ENSAI
