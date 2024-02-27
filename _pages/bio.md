@@ -16,7 +16,7 @@ profile:
     #<p style="font-size:12px;"> 35172 Bruz Cedex. Bureau 258.</p>
 ---
 I am currently a Lecturer and Researcher at <a href='https://ensai.fr'>ENSAI</a> and the <a href='https://crest.science'>CREST</a> lab. 
-My teaching responsibilities in the statistics department primarily focus on statistical learning, time series and extreme value theory. These courses include unsupervised classification methods (K-means and HCA), dimension reduction method through PCA, supervised classification methods (KNN, Bayes, LDA, QDA, CART, Random Forest), as well as forecasting methods in time series and the analysis of their extreme values.
+My teaching responsibilities in the Statistics Department primarily focus on statistical learning, time series and extreme value theory. These courses include unsupervised classification methods (K-means and HCA), dimension reduction method through PCA, supervised classification methods (KNN, Bayes, LDA, QDA, CART, Random Forest), as well as forecasting methods in time series and the analysis of their extreme values.
 
 Before joining ENSAI, I held a similar position at <a href='https://mia-ps.inrae.fr'>AgroParisTech/INRAE/Université Paris-Saclay</a> (2020-2023), where I primarily taught statistical modeling of environmental and biological data, and collaborated with <a href='https://mia-ps.inrae.fr/liliane-bel'>Liliane Bel</a> on a research project that deals with trend detection of extreme values of spatio-temporal processes with applications to climate data. 
 
@@ -24,6 +24,6 @@ I also completed a postdoctoral fellowship in machine learning at <a href='https
 
 I was also a temporary teaching and research associate (ATER) at the <a href='https://galilee.univ-paris13.fr'>Galilée Institute/Université Sorbonne Paris Nord</a> (2016-2017), as well as at the public school of health and digital engineering <a href='https://episen.u-pec.fr'>EPISEN/Université Paris-Est Créteil</a> (2019-2020). 
 
-Before my arrival in France, I was a mathematics instructor professor (a civil service position obtained through a competitive exam) at the Faculty of Sciences of the <a href='http://www.ucv.ve'>Central University of Venezuela</a> (2009-2012) and a part-time lecturer in the School of Economics at the same university.
+Before my arrival in France, I was a Mathematics Instructor Professor (a civil service position obtained through a competitive exam) at the Faculty of Sciences of the <a href='http://www.ucv.ve'>Central University of Venezuela</a> (2009-2012) and a part-time lecturer in the School of Economics at the same university.
 
 My academic background includes a Ph.D. in Statistics-Mathematics from <a href='https://www.cyu.fr'>CY Cergy Paris Université</a>, under the supervision of <a href='https://doukhan.perso.cyu.fr'>Paul Doukhan</a>, and a research master's in stochastic geometry from the Central University of Venezuela, supervised by <a href='https://scholar.google.com/citations?user=9pjGAFoAAAAJ&hl=fr'>José R. (Chichi) León</a>.

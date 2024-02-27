@@ -2,7 +2,7 @@
 layout: page
 title: Extreme Value Theory
 description: Practical Sessions
-img: assets/img/gamma.pdf
+img: assets/img/secheresse.jpg
 importance: 2
 category: ENSAI
 giscus_comments: false
