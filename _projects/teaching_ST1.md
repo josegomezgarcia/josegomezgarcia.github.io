@@ -43,3 +43,5 @@ Chapter 6: Some generalizations: exogenous contributions, ARMAX processes, and c
 - Lectures: 18 hours divided into 6 sessions.
 - Tutorials and solutions of exercices: 2 sessions of 3 hours. 
 - Practical sessions (with R): 3 sessions of 3 hours. 
+
+(In construction)

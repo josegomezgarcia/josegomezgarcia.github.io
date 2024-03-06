@@ -12,3 +12,4 @@ Here are the practical sessions for the Extreme Value Theory course of the GS (<
 
 All solutions can be found in the git directory <a href='https://github.com/josegomezgarcia/teaching'>extreme value theory</a>
 
+(In construction)
