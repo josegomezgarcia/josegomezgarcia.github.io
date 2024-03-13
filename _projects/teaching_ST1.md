@@ -10,7 +10,7 @@ related_publications: false
 
 ## General Information
 
-This is an introductory course on time series for all second-year students of ENSAI. You will find some tutorials, exercices, practical sessions, and their solutions in this session. Lecture notes will be made available soon.
+This is an introductory course on time series for all second-year ENSAI students. You will find tutorials, exercises, practical sessions, and some of their solutions in the Git folder: <a href="https://github.com/josegomezgarcia/TimeSeries/tree/main/SeriesTemporelles1">Series Temporelles 1</a>. 
 
 **All documents in this course are written in French.**
 
@@ -43,5 +43,3 @@ Chapter 6: Some generalizations: exogenous contributions, ARMAX processes, and c
 - Lectures: 18 hours divided into 6 sessions.
 - Tutorials and solutions of exercices: 2 sessions of 3 hours. 
 - Practical sessions (with R): 3 sessions of 3 hours. 
-
-(In construction)
