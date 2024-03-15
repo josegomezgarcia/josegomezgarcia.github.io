@@ -9,11 +9,11 @@ profile:
   image: jose2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:12px;"> ENSAI, Campus de Ker Lann</p>
-    <p style="font-size:12px;"> 51 rue Blaise Pascal, BP 37203</p>
-    <p style="font-size:12px;"> 35172 Bruz Cedex. Bureau 258.</p>
-    <p style="font-size:12px;"> <a href="mailto:jose.gomez-garcia[at]ensai[dot]fr">jose.gomez-garcia[at]ensai.fr</p>
-    <p style="font-size:12px;"> <a href="assets/pdf/cv_cnu.pdf">Academic CV in French (2024/02)</a></p>
+    <p style="font-size:14px;"> ENSAI, Campus de Ker Lann</p>
+    <p style="font-size:14px;"> 51 rue Blaise Pascal, BP 37203</p>
+    <p style="font-size:14px;"> 35172 Bruz Cedex. Bureau 258.</p>
+    <p style="font-size:14px;"> <a href="mailto:jose.gomez-garcia[at]ensai[dot]fr">jose.gomez-garcia[at]ensai.fr</p>
+    <p style="font-size:14px;"> <a href="assets/pdf/cv_cnu.pdf">Academic CV in French (2024/02)</a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
