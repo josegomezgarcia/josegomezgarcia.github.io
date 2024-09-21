@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: José G.
-middle_name: 
+middle_name:
 last_name: GOMEZ-GARCIA
-email: # jose.gomez-garcia@ensai.fr
+email: # jose-gregorio.gomez-garcia@u-paris.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:" 
     Website of José Gregorio GOMEZ-GARCIA.
 footer_text: >
