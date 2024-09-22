@@ -22,9 +22,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page 
 ---
 
-I am currently an assistant professor (maître de conférences) in Statistics and Data Sciences (SD) at the <a href='https://map5.mi.parisdescartes.fr'>MAP5</a> lab and the SD department of the <a href='https://iutparis-seine.u-paris.fr'>IUT de Paris - Rives de Seine</a>,  <a href='https://u-paris.fr'>Université Paris Cité</a>.
+I am currently an assistant professor (maître de conférences) in Statistics and Statistical Learning at the <a href='https://map5.mi.parisdescartes.fr'>MAP5</a> lab and the Data Sciences (DS) department of the <a href='https://iutparis-seine.u-paris.fr'>IUT de Paris - Rives de Seine</a>,  <a href='https://u-paris.fr'>Université Paris Cité</a>.
 
-My teaching responsibilities in the Data Science department focus primarily on statistical learning and time series analysis. Before joining the MAP5 lab and the IUT de Paris, I was a Lecturer and Researcher at <a href='https://ensai.fr'>ENSAI</a> and the <a href='https://crest.science'>CREST</a> lab (2023-2024) and at <a href='https://mia-ps.inrae.fr'>AgroParisTech/INRAE/Université Paris-Saclay</a> (2020-2023), where I concentrated on teaching and researching in statistical modeling of environmental and biological data.
+My teaching responsibilities in the DS department focus primarily on statistical learning and time series analysis. Before joining the MAP5 lab and the IUT de Paris, I was a Lecturer and Researcher at <a href='https://ensai.fr'>ENSAI</a> and the <a href='https://crest.science'>CREST</a> lab (2023-2024) and at <a href='https://mia-ps.inrae.fr'>AgroParisTech/INRAE/Université Paris-Saclay</a> (2020-2023), where I concentrated on teaching and researching in statistical modeling of environmental and biological data.
 
 I also completed a postdoctoral fellowship in machine learning at <a href='https://www.lmno.cnrs.fr'>LMNO/ UNICAEN</a>, working on mixture models and deep neural network-based models. During this period, I co-organized the <a href='https://www.lmno.cnrs.fr/seminaires/statprobasdonnees'>Statistics and Data Science Working Group</a> and participated in various teaching activities at UNICAEN and ENSAI.
 
